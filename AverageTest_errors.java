@@ -1,12 +1,4 @@
-# COIT11134 - Sample Exam - BQ3 - Debugging, Find the Errors
-
-## Question 3	5 MARKS
-
-The following program AverageTest calculates and prints the average of a LinkedList.
-Find out the five errors in the program and rewrite the error free statements accordingly.
-
-```
-public class AverageTest
+public class AverageTest_errors
 {
    public static double findAverage( LinkedList<> sales)
    {
@@ -31,4 +23,3 @@ public class AverageTest
    } // main end
 
 } // class end
-```
