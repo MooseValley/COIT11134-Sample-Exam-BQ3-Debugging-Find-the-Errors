@@ -1,6 +1,6 @@
 # COIT11134 - Sample Exam - BQ3 - Debugging, Find the Errors
 
-## Question 3	5 MARKS
+## Question 3	(5 MARKS)
 
 The following program AverageTest calculates and prints the average of a LinkedList.
 Find out the five errors in the program and rewrite the error free statements accordingly.
